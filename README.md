@@ -16,7 +16,7 @@ format:
 ```
 
 ## 2024
-- **`arXiv 2024.5`** [**xLSTM**] xLSTM: Extended Long Short-Term Memory [[Paper](https://arxiv.org/pdf/2405.04517)] [[Torch Code](https://github.com/NX-AI/xlstm)]
+- **`arXiv 2024.5`** [**xLSTM**] xLSTM: Extended Long Short-Term Memory [[Paper](https://arxiv.org/pdf/2405.04517)] [[Torch Code](https://github.com/NX-AI/xlstm)] [[JAX Code](https://github.com/dtunai/xLSTM-Jax)]
 - **`arXiv 2024.6`** [**Vision-LSTM**] Vision-LSTM: xLSTM as Generic Vision Backbone [[Paper](https://arxiv.org/pdf/2406.04303)] [[Torch Code](https://github.com/NX-AI/vision-lstm)]
 
 ## Contributors
