@@ -20,11 +20,12 @@ format:
 - **`arXiv 2024.6`** [**Vision-LSTM**] Vision-LSTM: xLSTM as Generic Vision Backbone [[Paper](https://arxiv.org/pdf/2406.04303)] [[Torch Code](https://github.com/NX-AI/vision-lstm)]
 
 ## Useful Resources
-- xLSTM - "I am almost exploding" - Industrial AI Podcast [YouTube Link](https://www.youtube.com/watch?v=hwIt7ezy6t8)
-- The xLSTM paper and a gripper - Industrial AI Podcast [YouTube Link](https://www.youtube.com/watch?v=gWrE6YUk8iU)
-- XLSTM - Extended LSTMs with sLSTM and mLSTM (paper explained) [YouTube Link](https://youtu.be/0aWGTNS03PU)
-- XLSTM — Extended Long Short-Term Memory Networks [Link](https://medium.com/@AIBites/xlstm-extended-long-short-term-memory-networks-c4ba34fdd98d)
-- [New xLSTM explained: Better than Transformer LLMs?](https://www.youtube.com/watch?v=xmy-dFAIpyU) 
+- [Video] [xLSTM - "I am almost exploding" - Industrial AI Podcast](https://www.youtube.com/watch?v=hwIt7ezy6t8)
+- [Video] [The xLSTM paper and a gripper - Industrial AI Podcast](https://www.youtube.com/watch?v=gWrE6YUk8iU)
+- [Video] [XLSTM - Extended LSTMs with sLSTM and mLSTM (paper explained)](https://youtu.be/0aWGTNS03PU)
+- [Video] [New xLSTM explained: Better than Transformer LLMs?](https://www.youtube.com/watch?v=xmy-dFAIpyU) 
+- [Article] [XLSTM — Extended Long Short-Term Memory Networks](https://medium.com/@AIBites/xlstm-extended-long-short-term-memory-networks-c4ba34fdd98d)
+
 
 ## Contributors
 
