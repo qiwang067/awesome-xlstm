@@ -25,6 +25,7 @@ format:
 - [Video] [XLSTM - Extended LSTMs with sLSTM and mLSTM (paper explained)](https://youtu.be/0aWGTNS03PU)
 - [Video] [New xLSTM explained: Better than Transformer LLMs?](https://www.youtube.com/watch?v=xmy-dFAIpyU) 
 - [Article] [XLSTM — Extended Long Short-Term Memory Networks](https://medium.com/@AIBites/xlstm-extended-long-short-term-memory-networks-c4ba34fdd98d)
+- [Article in Chinese] [原作者带队，LSTM真杀回来了！](https://mp.weixin.qq.com/s/x1ErPQq6TghL77uTG8YjvA)
 - [Article in Chinese] [原作者带队，LSTM卷土重来之Vision-LSTM出世](https://mp.weixin.qq.com/s/_9DYLbRkiXTU70nsXJLCDQ)
 
 
