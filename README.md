@@ -21,6 +21,7 @@ format:
 
 ## Useful Resources
 - xLSTM - "I am almost exploding" - Industrial AI Podcast [YouTube Link](https://www.youtube.com/watch?v=hwIt7ezy6t8)
+- The xLSTM paper and a gripper - Industrial AI Podcast [YouTube Link](https://www.youtube.com/watch?v=gWrE6YUk8iU)
 
 ## Contributors
 
