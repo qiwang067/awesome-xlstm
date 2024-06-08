@@ -6,8 +6,6 @@ If you find some ignored papers, **feel free to [*open issues*](https://github.c
 
 If you find this repository useful, please consider **[citing](#citation)** and **giving us a star** 🌟. 
 
-Feel free to share this list with others! 🥳🥳🥳
-
 
 ## Papers
 ```
