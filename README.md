@@ -4,7 +4,7 @@ This is a collection of research papers and useful resources on **xlstm**.
 
 If you find some ignored papers, **feel free to [*open issues*](https://github.com/qiwang067/awesome-xlsm/issues/new), or [*email* Qi Wang](mailto:qiwang067@163.com)**. Contributions in any form to make this list more comprehensive are welcome. 📣📣📣
 
-If you find this repository useful, please consider **[citing](#citation)** and **giving us a star** 🌟. 
+If you find this repository useful, please consider **giving us a star** 🌟. 
 
 
 ## Papers
