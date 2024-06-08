@@ -18,6 +18,7 @@ format:
 - **`arXiv 2024.6`** [**Vision-LSTM**] Vision-LSTM: xLSTM as Generic Vision Backbone [[Paper](https://arxiv.org/pdf/2406.04303)] [[Torch Code](https://github.com/NX-AI/vision-lstm)]
 
 ## Useful Resources
+- [Original LSTM Paper](https://www.bioinf.jku.at/publications/older/2604.pdf)
 - [Video] [xLSTM - "I am almost exploding" - Industrial AI Podcast](https://www.youtube.com/watch?v=hwIt7ezy6t8)
 - [Video] [The xLSTM paper and a gripper - Industrial AI Podcast](https://www.youtube.com/watch?v=gWrE6YUk8iU)
 - [Video] [XLSTM - Extended LSTMs with sLSTM and mLSTM (paper explained)](https://youtu.be/0aWGTNS03PU)
