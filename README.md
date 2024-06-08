@@ -24,6 +24,7 @@ format:
 - The xLSTM paper and a gripper - Industrial AI Podcast [YouTube Link](https://www.youtube.com/watch?v=gWrE6YUk8iU)
 - XLSTM - Extended LSTMs with sLSTM and mLSTM (paper explained) [YouTube Link](https://youtu.be/0aWGTNS03PU)
 - XLSTM — Extended Long Short-Term Memory Networks [Link](https://medium.com/@AIBites/xlstm-extended-long-short-term-memory-networks-c4ba34fdd98d)
+- [New xLSTM explained: Better than Transformer LLMs?](https://www.youtube.com/watch?v=xmy-dFAIpyU) 
 
 ## Contributors
 
