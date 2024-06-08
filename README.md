@@ -27,6 +27,7 @@ format:
 - [Article] [XLSTM — Extended Long Short-Term Memory Networks](https://medium.com/@AIBites/xlstm-extended-long-short-term-memory-networks-c4ba34fdd98d)
 - [Article in Chinese] [原作者带队，LSTM真杀回来了！](https://mp.weixin.qq.com/s/x1ErPQq6TghL77uTG8YjvA)
 - [Article in Chinese] [原作者带队，LSTM卷土重来之Vision-LSTM出世](https://mp.weixin.qq.com/s/_9DYLbRkiXTU70nsXJLCDQ)
+- [Article in Chinese] [xLSTM：拳打Transformer，脚踢Mamba？！](https://mp.weixin.qq.com/s/X6wyuS2ALFSYOaqPvTjF7A)
 
 
 ## Contributors
