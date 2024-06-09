@@ -19,6 +19,7 @@ format:
 
 ## Useful Resources
 - [Original LSTM Paper](https://www.bioinf.jku.at/publications/older/2604.pdf)
+- [Video] [xLSTM: Extended Long Short-Term Memory](https://www.youtube.com/watch?v=0OaEv1a5jUM)
 - [Video] [xLSTM - "I am almost exploding" - Industrial AI Podcast](https://www.youtube.com/watch?v=hwIt7ezy6t8)
 - [Video] [The xLSTM paper and a gripper - Industrial AI Podcast](https://www.youtube.com/watch?v=gWrE6YUk8iU)
 - [Video] [XLSTM - Extended LSTMs with sLSTM and mLSTM (paper explained)](https://youtu.be/0aWGTNS03PU)
