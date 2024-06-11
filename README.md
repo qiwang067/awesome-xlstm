@@ -29,7 +29,7 @@ format:
 - [Article in Chinese] [原作者带队，LSTM卷土重来之Vision-LSTM出世](https://mp.weixin.qq.com/s/_9DYLbRkiXTU70nsXJLCDQ)
 - [Article in Chinese] [xLSTM：拳打Transformer，脚踢Mamba？！](https://mp.weixin.qq.com/s/X6wyuS2ALFSYOaqPvTjF7A)
 
-
+<!--
 ## Contributors
 
 <table border="0">
@@ -43,6 +43,7 @@ format:
     </tr>
   </tbody>
 </table>
+-->
 
 <p align="right">(<a href="#top">Back to top</a>)</p>
 
